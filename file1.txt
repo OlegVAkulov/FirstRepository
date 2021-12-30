@@ -3,3 +3,4 @@ Hello world!
 Good bye!
 asdf
 Line from usre1
+New line from user1 - lesson about rebase
